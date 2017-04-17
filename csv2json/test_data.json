@@ -1,0 +1,3 @@
+{"URL": "url", "header": "header", "body": "body", "method": "method"}
+{"URL": "http://www.baidu.com", "header": "{'Content-type': 'application/json', 'Accept': 'application/json', 'Authorization': 'Basic c21zYXBpOnNtc2FwaQ=='}", "body": "{'id':'test', 'value': 2}", "method": "GET"}
+{"URL": "http://www.baidu.com", "header": "{'Content-type': 'application/json', 'Accept': 'application/json', 'Authorization': 'Basic c21zYXBpOnNtc2FwaQ=='}", "body": "{'id':'test', 'value': 3}", "method": "GET"}
